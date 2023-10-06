@@ -1,1 +1,1 @@
-heroku create --buildpack https://github.com/heroku/heroku-buildpack-php.git
+python-3.10.4
